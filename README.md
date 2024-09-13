@@ -10,4 +10,4 @@ Additionally, the system provides features for managing room bookings, checking 
 <img src="hotelia.jpg" alt="Hotel">
 <h3>Login Page</h3>
 <img src="loginpage.jpg" alt="login">
->>>>>>> a94e2cc7bd0bf0be5db4d31d7eb5c02360b5c15b
+
