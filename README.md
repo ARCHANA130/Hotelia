@@ -4,4 +4,3 @@ The Hotel Management System Project is a software developed to simplify hotel op
 
 Additionally, the system provides features for managing room bookings, checking room availability, and generating invoices. It also includes a reporting module to generate various reports such as occupancy rates, revenue, and customer feedback. The user-friendly interface ensures that hotel staff can easily navigate and utilize the system to improve efficiency and enhance customer satisfaction.
 
-(hotelia.jpg)
