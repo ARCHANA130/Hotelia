@@ -21,8 +21,13 @@ A **hotel management system** developed in **Python** with **MySQL integration**
 - **Frontend:** Tkinter (GUI)  
 - **Database:** MySQL  
 
-### 📷 Screenshots  
-(_Add UI images here_)
+### 📷 Screenshots 
+
+<h3>Hotel Page</h3>
+<img src="hotelia.jpg" alt="Hotel">
+<h3>Login Page</h3>
+<img src="loginpage.jpg" alt="login">
+
 
 ### 🔧 Setup & Installation  
 ```bash
@@ -43,9 +48,6 @@ python main.py
 
 ---
 
-=======
-<h3>Hotel Page</h3>
-<img src="hotelia.jpg" alt="Hotel">
-<h3>Login Page</h3>
-<img src="loginpage.jpg" alt="login">
+
+
 
